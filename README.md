@@ -1,0 +1,2 @@
+# Data-Pre-Processing_method_with_python
+Let's first review the CRISP-DM framework:  Business Understanding Data Understanding Data Preparation Modeling Evaluation Deployment After data preparation is done, we will have a clean dataset. But before we apply machine learning algorithms on the dataset, we will still need to do some data pre-processing.  In this notebook, we introduce three types of data pre-processing:  Encoding categorical variables Splitting dataset to training and testing dataset. Scaling and standardizing data
